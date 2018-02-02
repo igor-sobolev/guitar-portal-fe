@@ -11,8 +11,6 @@
   "jquery": true,
   "module": true,
   "jasmine": true,
-  "globals": [
-    "angular",
-    "_"
-  ]
+  "node": true,
+  "globals": []
 }
